@@ -3,28 +3,116 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: G3
-    url: https://www.g3.com.mt
-    icon: https://www.g3.com.mt/favicon.ico
   - name: Akakus
     url: https://www.akakus.com.mt
     icon: https://www.akakus.com.mt/favicon.ico
+  - name: BlippOn - API
+    url: https://blippon-api-linux.azurewebsites.net/api/Configuration
+    icon: https://blippon-dashboard-linux.azurewebsites.net/favicon.ico
+  - name: Bumalift
+    url: https://bumalift.com
+    icon: https://bumalift.com/favicon.ico
+  - name: FF-International
+    url: https://www.ffinternational.com.mt
+    icon: https://www.ffinternational.com.mt/favicon.ico
+  - name: G3
+    url: https://www.g3.com.mt
+    icon: https://www.g3.com.mt/favicon.ico
+  - name: GameChampions API
+    url: https://api.gamechampions.com/api/countries
+    icon: https://api.gamechampions.com/favicon.ico
+  - name: GameChampions Dashboard
+    url: https://play.gamechampions.com
+    icon: https://play.gamechampions.com/favicon.ico
+  - name: GameChampions Web Api
+    url: https://cms.gamechampions.com/api/home/getPage
+    icon: https://cms.gamechampions.com/favicon.ico
+  - name: GameChampions Website
+    url: https://www.gamechampions.com
+    icon: https://www.gamechampions.com/favicon.ico
   - name: Incredible Web
     url: https://www.incredible-web.com
     icon: https://www.incredible-web.com/favicon.ico
+  - name: Malta Careers API
+    url: https://api.maltacareers.com/api/values
+    icon: https://api.maltacareers.com/favicon.ico
+  - name: Malta Careers Dashboard
+    url: https://admin.maltacareers.com/login
+    icon: https://admin.maltacareers.com/favicon.ico
+  - name: Malta Careers Web
+    url: https://www.maltacareers.com
+    icon: https://www.maltacareers.com/favicon.ico
+  - name: Maltawarehouse
+    url: https://maltawarehouse.com
+    icon: https://maltawarehouse.com/favicon.ico
+  - name: MFA - Api
+    url: https://api.mfa.com.mt/api/competitions/competitionTypes
+    icon: https://api.mfa.com.mt/favicon.ico
+  - name: MFA - Api - Azure - Past Matches
+    url: https://mfa-api-linux.azurewebsites.net/api/competitions/58539/pastMatches?pageSize=8&season=2021
+    icon: https://mfa-api-linux.azurewebsites.net/favicon.ico
+  - name: MFA - API STAGING TEST
+    url: https://mfa-api-linux-staging.azurewebsites.net/api/competitions/competitionTypes
+    icon: https://mfa-api-linux-staging.azurewebsites.net/favicon.ico
+  - name: MFA - Web API
+    url: https://cms.mfa.com.mt/api/competitions/getCompetitionItemStub
+    icon: https://cms.mfa.com.mt/favicon.ico
   - name: MFA - Website
     url: https://matchcentre.mfa.com.mt
     icon: https://matchcentre.mfa.com.mt/favicon.ico
+  - name: MUMN API
+    url: https://mumn-api.azurewebsites.net/api/news/getpage
+    icon: https://mumn-api.azurewebsites.net/favicon.ico
+  - name: MUMN WEB
+    url: https://www.mumn.org
+    icon: https://www.mumn.org/favicon.ico
+  - name: MVA Back (Admin)
+    url: http://admin.mva.org.mt
+    icon: http://admin.mva.org.mt/favicon.ico
+  - name: MVA Front
+    url: http://mva.org.mt
+    icon: http://mva.org.mt/favicon.ico
+  - name: Naw-Transport
+    url: https://nawtransport.com.mt
+    icon: https://nawtransport.com.mt/favicon.ico
+  - name: New Dimension Scuba
+    url: http://www.nds-malta.com
+    icon: http://www.nds-malta.com/favicon.ico
+  - name: Pergola API
+    url: https://admin.pergolahotel.com.mt/api/routes
+    icon: https://admin.pergolahotel.com.mt/favicon.ico
+  - name: Pergola Web
+    url: https://www.pergolahotel.com.mt
+    icon: https://www.pergolahotel.com.mt/favicon.ico
+  - name: Pizza4u
+    url: https://www.pizza4u.com.mt
+    icon: https://www.pizza4u.com.mt/favicon.ico
+  - name: Pizza4u - Admin
+    url: https://admin.pizza4u.com.mt
+    icon: https://admin.pizza4u.com.mt/favicon.ico
+  - name: Solana
+    url: https://www.solanahotel.com
+    icon: https://www.solanahotel.com/favicon.ico
+  - name: Solana API
+    url: https://admin.solanahotel.com/api/home/getpage
+    icon: https://admin.solanahotel.com/favicon.ico
+  - name: TechKYC API
+    url: https://techkyc-api-linux.azurewebsites.net/api/values
+    icon: https://techkyc-api-linux.azurewebsites.net/favicon.ico
+  - name: TechKYC Dashboard
+    url: https://techkyc-dashboard-linux.azurewebsites.net
+    icon: https://techkyc-dashboard-linux.azurewebsites.net/favicon.ico
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /IWPUptime
+  logoUrl: https://www.incredible-web.com/img/logo.png
+  name: Upptime IW projects
+  introTitle: "Incredible-Web"
+  introMessage: Incredible Web
   navbar:
     - title: Status
       href: /
@@ -33,3 +121,21 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+# status-website:
+#   # Add your custom domain name, or remove the `cname` line if you don't have a domain
+#   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+#   cname: demo.upptime.js.org
+#   # baseUrl: /your-repo-name
+#   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+#   name: Upptime
+#   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+#   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+#   navbar:
+#     - title: Status
+#       href: /
+#     - title: GitHub
+#       href: https://github.com/$OWNER/$REPO
+
+# # Upptime also supports notifications, assigning issues, and more
+# # See https://upptime.js.org/docs/configuration
