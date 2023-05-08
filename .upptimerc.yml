@@ -9,6 +9,12 @@ sites:
   - name: BlippOn - API
     url: https://blippon-api-linux.azurewebsites.net/api/Configuration
     icon: https://blippon-dashboard-linux.azurewebsites.net/favicon.ico
+  - name: BlippOn - Dashboard
+    url: https://blippon-dashboard-linux.azurewebsites.net
+    icon: https://blippon-dashboard-linux.azurewebsites.net/favicon.ico
+  - name: BodyClinikProxy
+    url: https://bodyclinikproxy.azurewebsites.net/api/values
+    icon: https://bodyclinikproxy.azurewebsites.net/favicon.ico
   - name: Bumalift
     url: https://bumalift.com
     icon: https://bumalift.com/favicon.ico
@@ -102,6 +108,12 @@ sites:
   - name: TechKYC Dashboard
     url: https://techkyc-dashboard-linux.azurewebsites.net
     icon: https://techkyc-dashboard-linux.azurewebsites.net/favicon.ico
+  - name: MTG Dashboard
+    url: https://mtg-dashboard.azurewebsites.net
+    icon: https://mtg-dashboard.azurewebsites.net/favicon.ico
+  - name: MTG API
+    url: https://mtg-api-pre-release.azurewebsites.net/api/values
+    icon: https://mtg-api-pre-release.azurewebsites.net/favicon.ico
 
 
 status-website:
