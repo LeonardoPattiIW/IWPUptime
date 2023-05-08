@@ -36,6 +36,42 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "BlippOn - Dashboard",
+    "url": "https://blippon-dashboard-linux.azurewebsites.net",
+    "icon": "https://blippon-dashboard-linux.azurewebsites.net/favicon.ico",
+    "slug": "blipp-on-dashboard",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 761,
+    "timeDay": 761,
+    "timeWeek": 761,
+    "timeMonth": 761,
+    "timeYear": 761,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "BodyClinikProxy",
+    "url": "https://bodyclinikproxy.azurewebsites.net/api/values",
+    "icon": "https://bodyclinikproxy.azurewebsites.net/favicon.ico",
+    "slug": "body-clinik-proxy",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 371,
+    "timeDay": 371,
+    "timeWeek": 371,
+    "timeMonth": 371,
+    "timeYear": 371,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Bumalift",
     "url": "https://bumalift.com",
     "icon": "https://bumalift.com/favicon.ico",
@@ -52,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 2
+      "2023-05-08": 30
     }
   },
   {
@@ -593,6 +629,42 @@
     "timeWeek": 985,
     "timeMonth": 985,
     "timeYear": 985,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "MTG Dashboard",
+    "url": "https://mtg-dashboard.azurewebsites.net",
+    "icon": "https://mtg-dashboard.azurewebsites.net/favicon.ico",
+    "slug": "mtg-dashboard",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2140,
+    "timeDay": 2140,
+    "timeWeek": 2140,
+    "timeMonth": 2140,
+    "timeYear": 2140,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "MTG API",
+    "url": "https://mtg-api-pre-release.azurewebsites.net/api/values",
+    "icon": "https://mtg-api-pre-release.azurewebsites.net/favicon.ico",
+    "slug": "mtg-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 440,
+    "timeDay": 440,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {}
   }
 ]
