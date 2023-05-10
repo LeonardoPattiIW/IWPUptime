@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-10": 33,
+      "2023-05-10": 523,
       "2023-05-09": 1440,
       "2023-05-08": 595
     }
@@ -350,18 +350,20 @@
     "url": "https://cms.mfa.com.mt/api/competitions/getCompetitionItemStub",
     "icon": "https://cms.mfa.com.mt/favicon.ico",
     "slug": "mfa-web-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 783,
     "timeDay": 986,
     "timeWeek": 783,
     "timeMonth": 783,
     "timeYear": 783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-10": 2
+    }
   },
   {
     "name": "MFA - Website",
