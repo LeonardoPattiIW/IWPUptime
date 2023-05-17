@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 1392,
+      "2023-05-17": 1415,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
@@ -159,18 +159,20 @@
     "url": "https://play.gamechampions.com",
     "icon": "https://play.gamechampions.com/favicon.ico",
     "slug": "game-champions-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1338,
     "timeDay": 1114,
     "timeWeek": 1316,
     "timeMonth": 1338,
     "timeYear": 1338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-17": 1
+    }
   },
   {
     "name": "GameChampions Web Api",
