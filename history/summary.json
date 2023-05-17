@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 37,
+      "2023-05-17": 678,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
@@ -357,18 +357,19 @@
     "url": "https://cms.mfa.com.mt/api/competitions/getCompetitionItemStub",
     "icon": "https://cms.mfa.com.mt/favicon.ico",
     "slug": "mfa-web-api",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 814,
-    "timeDay": 841,
-    "timeWeek": 826,
-    "timeMonth": 814,
-    "timeYear": 814,
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 1059,
+    "timeDay": 2295,
+    "timeWeek": 1194,
+    "timeMonth": 1059,
+    "timeYear": 1059,
     "dailyMinutesDown": {
+      "2023-05-17": 2,
       "2023-05-10": 5
     }
   },
@@ -377,10 +378,10 @@
     "url": "https://matchcentre.mfa.com.mt",
     "icon": "https://matchcentre.mfa.com.mt/favicon.ico",
     "slug": "mfa-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 853,
@@ -388,7 +389,9 @@
     "timeWeek": 901,
     "timeMonth": 853,
     "timeYear": 853,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-17": 1
+    }
   },
   {
     "name": "MUMN API",
