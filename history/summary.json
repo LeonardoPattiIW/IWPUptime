@@ -40,19 +40,19 @@
     "url": "https://blippon-dashboard-linux.azurewebsites.net",
     "icon": "https://blippon-dashboard-linux.azurewebsites.net/favicon.ico",
     "slug": "blipp-on-dashboard",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 913,
-    "timeDay": 895,
-    "timeWeek": 855,
+    "timeDay": 905,
+    "timeWeek": 862,
     "timeMonth": 913,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2023-05-24": 2
+      "2023-05-24": 7
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-24": 995,
+      "2023-05-24": 1001,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
