@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-28": 37,
+      "2023-05-28": 1211,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
@@ -210,10 +210,10 @@
     "url": "https://www.gamechampions.com",
     "icon": "https://www.gamechampions.com/favicon.ico",
     "slug": "game-champions-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1523,
@@ -221,7 +221,9 @@
     "timeWeek": 1681,
     "timeMonth": 1523,
     "timeYear": 1523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 1
+    }
   },
   {
     "name": "Incredible Web",
@@ -375,11 +377,11 @@
     "icon": "https://cms.mfa.com.mt/favicon.ico",
     "slug": "mfa-web-api",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 996,
     "timeDay": 726,
     "timeWeek": 857,
