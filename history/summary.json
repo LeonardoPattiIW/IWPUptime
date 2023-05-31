@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-31": 353,
+      "2023-05-31": 786,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -219,10 +219,10 @@
     "url": "https://www.gamechampions.com",
     "icon": "https://www.gamechampions.com/favicon.ico",
     "slug": "game-champions-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 1664,
@@ -231,7 +231,7 @@
     "timeMonth": 1664,
     "timeYear": 1664,
     "dailyMinutesDown": {
-      "2023-05-31": 5,
+      "2023-05-31": 6,
       "2023-05-29": 61,
       "2023-05-28": 10
     }
