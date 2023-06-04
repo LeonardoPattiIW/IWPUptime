@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-04": 299,
+      "2023-06-04": 310,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -528,19 +528,19 @@
     "url": "http://www.nds-malta.com",
     "icon": "http://www.nds-malta.com/favicon.ico",
     "slug": "new-dimension-scuba",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 946,
-    "timeDay": 1321,
-    "timeWeek": 961,
-    "timeMonth": 946,
-    "timeYear": 946,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 939,
+    "timeDay": 1032,
+    "timeWeek": 933,
+    "timeMonth": 939,
+    "timeYear": 939,
     "dailyMinutesDown": {
-      "2023-06-04": 1
+      "2023-06-04": 11
     }
   },
   {
