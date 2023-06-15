@@ -1,7 +1,7 @@
 url: https://cms.gamechampions.com/api/home/getPage
-status: down
-code: 500
-responseTime: 3954
-lastUpdated: 2023-06-15T14:40:51.163Z
+status: up
+code: 200
+responseTime: 565
+lastUpdated: 2023-06-15T14:46:54.929Z
 startTime: Mon May 08 2023 14:06:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
