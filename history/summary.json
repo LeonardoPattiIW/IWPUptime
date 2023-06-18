@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-18": 764,
+      "2023-06-18": 805,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -354,18 +354,20 @@
     "url": "https://maltawarehouse.com",
     "icon": "https://maltawarehouse.com/favicon.ico",
     "slug": "maltawarehouse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1900,
-    "timeDay": 3011,
-    "timeWeek": 1968,
-    "timeMonth": 1951,
-    "timeYear": 1900,
-    "dailyMinutesDown": {}
+    "time": 2140,
+    "timeDay": 7607,
+    "timeWeek": 3247,
+    "timeMonth": 2272,
+    "timeYear": 2140,
+    "dailyMinutesDown": {
+      "2023-06-18": 1
+    }
   },
   {
     "name": "MFA - Api",
@@ -472,18 +474,18 @@
     "icon": "https://mumn-api.azurewebsites.net/favicon.ico",
     "slug": "mumn-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.93%",
     "time": 644,
     "timeDay": 557,
     "timeWeek": 598,
     "timeMonth": 649,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2023-06-18": 1
+      "2023-06-18": 41
     }
   },
   {
