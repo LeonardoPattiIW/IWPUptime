@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-18": 828,
+      "2023-06-18": 924,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -336,10 +336,10 @@
     "url": "https://www.maltacareers.com",
     "icon": "https://www.maltacareers.com/favicon.ico",
     "slug": "malta-careers-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1421,
@@ -348,7 +348,7 @@
     "timeMonth": 1420,
     "timeYear": 1421,
     "dailyMinutesDown": {
-      "2023-06-18": 5
+      "2023-06-18": 6
     }
   },
   {
@@ -476,18 +476,18 @@
     "icon": "https://mumn-api.azurewebsites.net/favicon.ico",
     "slug": "mumn-api",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "95.52%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.73%",
+    "uptimeDay": "88.88%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.73%",
     "time": 644,
     "timeDay": 557,
     "timeWeek": 598,
     "timeMonth": 649,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2023-06-18": 65
+      "2023-06-18": 160
     }
   },
   {
