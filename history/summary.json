@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-18": 824,
+      "2023-06-18": 828,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -336,19 +336,19 @@
     "url": "https://www.maltacareers.com",
     "icon": "https://www.maltacareers.com/favicon.ico",
     "slug": "malta-careers-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1436,
-    "timeDay": 1202,
-    "timeWeek": 1112,
-    "timeMonth": 1440,
-    "timeYear": 1436,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1421,
+    "timeDay": 999,
+    "timeWeek": 1072,
+    "timeMonth": 1420,
+    "timeYear": 1421,
     "dailyMinutesDown": {
-      "2023-06-18": 1
+      "2023-06-18": 5
     }
   },
   {
@@ -356,19 +356,19 @@
     "url": "https://maltawarehouse.com",
     "icon": "https://maltawarehouse.com/favicon.ico",
     "slug": "maltawarehouse",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 2360,
-    "timeDay": 7351,
-    "timeWeek": 4017,
-    "timeMonth": 2555,
-    "timeYear": 2360,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 2344,
+    "timeDay": 6203,
+    "timeWeek": 3798,
+    "timeMonth": 2528,
+    "timeYear": 2344,
     "dailyMinutesDown": {
-      "2023-06-18": 14
+      "2023-06-18": 18
     }
   },
   {
@@ -476,18 +476,18 @@
     "icon": "https://mumn-api.azurewebsites.net/favicon.ico",
     "slug": "mumn-api",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.89%",
     "time": 644,
     "timeDay": 557,
     "timeWeek": 598,
     "timeMonth": 649,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2023-06-18": 60
+      "2023-06-18": 65
     }
   },
   {
