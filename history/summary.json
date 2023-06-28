@@ -240,18 +240,18 @@
     "icon": "https://api.maltacareers.com/favicon.ico",
     "slug": "malta-careers-web-api",
     "status": "up",
-    "uptime": "1.45%",
-    "uptimeDay": "1.45%",
-    "uptimeWeek": "1.45%",
-    "uptimeMonth": "1.45%",
-    "uptimeYear": "1.45%",
+    "uptime": "1.19%",
+    "uptimeDay": "1.19%",
+    "uptimeWeek": "1.19%",
+    "uptimeMonth": "1.19%",
+    "uptimeYear": "1.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-28": 1
+      "2023-06-28": 2
     }
   },
   {
@@ -297,8 +297,8 @@
     "slug": "malta-careers-web",
     "status": "up",
     "uptime": "80.87%",
-    "uptimeDay": "0.80%",
-    "uptimeWeek": "0.11%",
+    "uptimeDay": "0.83%",
+    "uptimeWeek": "0.12%",
     "uptimeMonth": "68.04%",
     "uptimeYear": "80.87%",
     "time": 1402,
@@ -383,8 +383,8 @@
     "slug": "mfa-api-staging-test",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 798,
@@ -393,7 +393,7 @@
     "timeMonth": 648,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2023-06-28": 11,
+      "2023-06-28": 12,
       "2023-06-02": 6,
       "2023-05-19": 6
     }
