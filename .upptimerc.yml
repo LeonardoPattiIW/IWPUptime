@@ -40,7 +40,7 @@ sites:
     url: https://www.incredible-web.com
     icon: https://www.incredible-web.com/favicon.ico
   - name: Malta Careers Web API
-    url: https://cms.maltacareers.com/api/values
+    url: https://cms.maltacareers.com/umbraco
     icon: https://api.maltacareers.com/favicon.ico
   - name: Malta Careers API
     url: https://api.maltacareers.com/api/values
