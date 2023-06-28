@@ -15,9 +15,9 @@ sites:
   - name: BodyClinikProxy
     url: https://bodyclinikproxy.azurewebsites.net/api/values
     icon: https://bodyclinikproxy.azurewebsites.net/favicon.ico
-  - name: Bumalift
-    url: https://bumalift.com
-    icon: https://bumalift.com/favicon.ico
+  # - name: Bumalift
+  #   url: https://bumalift.com
+  #   icon: https://bumalift.com/favicon.ico
   - name: FF-International
     url: https://www.ffinternational.com.mt
     icon: https://www.ffinternational.com.mt/favicon.ico
@@ -39,6 +39,9 @@ sites:
   - name: Incredible Web
     url: https://www.incredible-web.com
     icon: https://www.incredible-web.com/favicon.ico
+  - name: Malta Careers Web API
+    url: https://cms.maltacareers.com/api/values
+    icon: https://api.maltacareers.com/favicon.ico
   - name: Malta Careers API
     url: https://api.maltacareers.com/api/values
     icon: https://api.maltacareers.com/favicon.ico
@@ -114,6 +117,12 @@ sites:
   - name: MTG API
     url: https://mtg-api-pre-release.azurewebsites.net/api/values
     icon: https://mtg-api-pre-release.azurewebsites.net/favicon.ico
+  - name: PixCasino
+    url: https://pixcasino.com
+    icon: https://pixcasino.com/static/pixcasino-icon-32-32.png
+  - name: Acasino Staging
+    url: https://acasinostaging.com
+    icon: https://acasinostaging.com/static/acasino-icon-32-32.png
 
 
 status-website:
