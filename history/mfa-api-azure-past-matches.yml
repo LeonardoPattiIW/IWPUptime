@@ -1,7 +1,7 @@
 url: https://mfa-api-linux.azurewebsites.net/api/competitions/58539/pastMatches?pageSize=8&season=2021
 status: up
 code: 200
-responseTime: 5671
-lastUpdated: 2023-08-27T23:06:21.626Z
+responseTime: 6052
+lastUpdated: 2023-08-28T23:06:56.334Z
 startTime: Mon May 08 2023 14:06:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
