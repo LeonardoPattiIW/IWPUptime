@@ -1,7 +1,7 @@
 url: https://admin.pergolahotel.com.mt/api/routes
-status: down
-code: 503
-responseTime: 524
-lastUpdated: 2023-09-15T17:22:22.911Z
+status: up
+code: 200
+responseTime: 645
+lastUpdated: 2023-09-15T17:28:27.187Z
 startTime: Mon May 08 2023 14:07:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
