@@ -84,19 +84,19 @@
     "url": "https://www.ffinternational.com.mt",
     "icon": "https://www.ffinternational.com.mt/favicon.ico",
     "slug": "ff-international",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2309,
-    "timeDay": 2931,
-    "timeWeek": 2481,
-    "timeMonth": 2398,
-    "timeYear": 2309,
+    "time": 2312,
+    "timeDay": 2808,
+    "timeWeek": 2506,
+    "timeMonth": 2408,
+    "timeYear": 2312,
     "dailyMinutesDown": {
-      "2023-10-05": 1
+      "2023-10-05": 6
     }
   },
   {
