@@ -242,10 +242,10 @@
     "url": "https://www.gamechampions.com",
     "icon": "https://www.gamechampions.com/favicon.ico",
     "slug": "game-champions-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "96.79%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.62%",
     "time": 1807,
@@ -254,7 +254,7 @@
     "timeMonth": 1402,
     "timeYear": 1807,
     "dailyMinutesDown": {
-      "2023-10-17": 62,
+      "2023-10-17": 63,
       "2023-10-16": 22,
       "2023-10-15": 12,
       "2023-10-14": 50,
@@ -302,8 +302,7 @@
       "2023-06-03": 4,
       "2023-06-02": 18,
       "2023-05-31": 22,
-      "2023-05-29": 61,
-      "2023-05-28": 10
+      "2023-05-29": 61
     }
   },
   {
@@ -1041,11 +1040,11 @@
     "icon": "https://pixcasino.com/static/pixcasino-icon-32-32.png",
     "slug": "pix-casino",
     "status": "up",
-    "uptime": "93.81%",
+    "uptime": "93.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.60%",
-    "uptimeYear": "93.81%",
+    "uptimeYear": "93.82%",
     "time": 1127,
     "timeDay": 908,
     "timeWeek": 1192,
