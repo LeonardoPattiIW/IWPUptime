@@ -1,7 +1,7 @@
 url: https://cms.mfa.com.mt/api/competitions/getCompetitionItemStub
-status: up
-code: 200
-responseTime: 582
-lastUpdated: 2023-10-24T23:07:09.223Z
+status: down
+code: 500
+responseTime: 14441
+lastUpdated: 2023-10-25T06:47:33.241Z
 startTime: Mon May 08 2023 14:06:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
