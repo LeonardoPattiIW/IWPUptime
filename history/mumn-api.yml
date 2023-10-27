@@ -1,7 +1,7 @@
 url: https://mumn-api.azurewebsites.net/api/news/getpage
 status: up
 code: 200
-responseTime: 409
-lastUpdated: 2023-10-26T23:07:51.727Z
+responseTime: 581
+lastUpdated: 2023-10-27T23:06:50.734Z
 startTime: Mon May 08 2023 14:07:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
