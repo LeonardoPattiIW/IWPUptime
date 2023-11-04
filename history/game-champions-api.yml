@@ -1,7 +1,7 @@
 url: https://api.gamechampions.com/api/countries
-status: up
-code: 200
-responseTime: 955
-lastUpdated: 2023-11-04T11:49:45.394Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-04T11:57:21.314Z
 startTime: Mon May 08 2023 14:06:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
