@@ -275,11 +275,11 @@
     "url": "https://www.gamechampions.com",
     "icon": "https://www.gamechampions.com/favicon.ico",
     "slug": "game-champions-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "98.09%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "95.83%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "99.69%",
     "time": 1280,
     "timeDay": 664,
@@ -287,7 +287,7 @@
     "timeMonth": 511,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2023-11-09": 44,
+      "2023-11-09": 45,
       "2023-11-08": 54,
       "2023-11-07": 48,
       "2023-11-06": 147,
@@ -301,7 +301,7 @@
       "2023-10-29": 83,
       "2023-10-28": 24,
       "2023-10-27": 68,
-      "2023-10-26": 12
+      "2023-10-26": 6
     }
   },
   {
