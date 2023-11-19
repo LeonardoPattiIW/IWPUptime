@@ -277,11 +277,11 @@
     "url": "https://www.gamechampions.com",
     "icon": "https://www.gamechampions.com/favicon.ico",
     "slug": "game-champions-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "96.15%",
+    "uptimeDay": "96.10%",
     "uptimeWeek": "96.75%",
-    "uptimeMonth": "98.02%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "99.69%",
     "time": 1229,
     "timeDay": 1160,
@@ -289,7 +289,7 @@
     "timeMonth": 647,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2023-11-19": 36,
+      "2023-11-19": 37,
       "2023-11-18": 18,
       "2023-11-17": 106,
       "2023-11-16": 25,
@@ -307,7 +307,7 @@
       "2023-11-04": 45,
       "2023-11-03": 18,
       "2023-11-02": 64,
-      "2023-11-01": 20
+      "2023-11-01": 15
     }
   },
   {
@@ -521,11 +521,11 @@
     "icon": "https://mfa-api-linux-staging.azurewebsites.net/favicon.ico",
     "slug": "mfa-api-staging-test",
     "status": "up",
-    "uptime": "68.72%",
+    "uptime": "68.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "68.72%",
+    "uptimeYear": "68.73%",
     "time": 802,
     "timeDay": 589,
     "timeWeek": 482,
