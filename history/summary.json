@@ -569,11 +569,11 @@
     "icon": "https://mfa-api-linux-staging.azurewebsites.net/favicon.ico",
     "slug": "mfa-api-staging-test",
     "status": "up",
-    "uptime": "69.91%",
+    "uptime": "69.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "65.50%",
+    "uptimeWeek": "66.74%",
     "uptimeMonth": "78.37%",
-    "uptimeYear": "69.91%",
+    "uptimeYear": "69.92%",
     "time": 763,
     "timeDay": 589,
     "timeWeek": 478,
@@ -952,10 +952,10 @@
     "url": "https://www.pizza4u.com.mt",
     "icon": "https://www.pizza4u.com.mt/favicon.ico",
     "slug": "pizza4u",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.06%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.76%",
     "time": 839,
@@ -964,6 +964,7 @@
     "timeMonth": 1489,
     "timeYear": 839,
     "dailyMinutesDown": {
+      "2023-12-19": 1,
       "2023-12-18": 11,
       "2023-12-16": 50,
       "2023-12-14": 31,
@@ -1028,8 +1029,7 @@
       "2023-09-26": 4,
       "2023-09-25": 10,
       "2023-09-24": 10,
-      "2023-09-23": 8,
-      "2023-09-22": 7
+      "2023-09-23": 8
     }
   },
   {
