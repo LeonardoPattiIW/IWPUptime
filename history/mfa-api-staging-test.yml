@@ -1,7 +1,7 @@
 url: https://mfa-api-linux-staging.azurewebsites.net/api/competitions/competitionTypes
-status: down
-code: 400
-responseTime: 6362
-lastUpdated: 2024-02-10T14:37:19.349Z
+status: up
+code: 200
+responseTime: 612
+lastUpdated: 2024-02-10T14:43:01.537Z
 startTime: Mon May 08 2023 14:06:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
