@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "93.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.47%",
+    "uptimeWeek": "80.69%",
     "uptimeMonth": "40.79%",
     "uptimeYear": "93.84%",
     "time": 664,
@@ -215,18 +215,19 @@
     "url": "https://play.gamechampions.com",
     "icon": "https://play.gamechampions.com/favicon.ico",
     "slug": "game-champions-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "99.25%",
+    "uptimeDay": "99.20%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.77%",
-    "time": 3732,
-    "timeDay": 4298,
-    "timeWeek": 3069,
-    "timeMonth": 4281,
-    "timeYear": 3732,
+    "time": 3773,
+    "timeDay": 9890,
+    "timeWeek": 4095,
+    "timeMonth": 4473,
+    "timeYear": 3773,
     "dailyMinutesDown": {
+      "2024-02-25": 1,
       "2024-02-24": 47,
       "2024-02-23": 6,
       "2024-02-22": 14,
@@ -273,7 +274,7 @@
       "2023-12-31": 6,
       "2023-12-30": 65,
       "2023-12-29": 24,
-      "2023-12-28": 18
+      "2023-12-28": 6
     }
   },
   {
@@ -1087,7 +1088,7 @@
     "timeMonth": 727,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2024-02-25": 369,
+      "2024-02-25": 391,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
