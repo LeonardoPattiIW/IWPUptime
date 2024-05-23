@@ -1,7 +1,7 @@
 url: https://admin.maltacareers.com/login
-status: up
-code: 200
-responseTime: 657
-lastUpdated: 2024-05-22T23:10:27.735Z
+status: down
+code: 503
+responseTime: 412
+lastUpdated: 2024-05-23T02:57:01.091Z
 startTime: Mon May 08 2023 14:06:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
